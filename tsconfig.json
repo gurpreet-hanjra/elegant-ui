@@ -18,7 +18,11 @@
         "suppressImplicitAnyIndexErrors": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
-        "allowSyntheticDefaultImports": true
+        "allowSyntheticDefaultImports": true,
+        "types": [
+            "react",
+            "jest"
+        ]
     },
     "include": [
         "src"
