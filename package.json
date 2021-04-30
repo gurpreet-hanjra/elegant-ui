@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/gurpreet-hanjra/elegant-ui#readme",
   "devDependencies": {
-    "@babel/core": "^7.10.1",
+    "@babel/core": "^7.14.0",
     "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^5.3.19",
     "babel-loader": "^8.1.0",
